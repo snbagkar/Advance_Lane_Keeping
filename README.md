@@ -56,7 +56,7 @@ $ python test.py
   - Apply Image-thresholding 
   - Apply Image wrap and percpective transform
   - Apply sliding window on Image
-  ![Image Processing](https://github.com/snbagkar/Lane_Keeping/blob/main/6230e17a-59c4-400f-a3a7-0cdacc3448bd.jpeg)  
+  ![Image Processing](https://github.com/snbagkar/Advance_Lane_Keeping/blob/main/Image_processing.jpeg)  
 
   
 # For Controller basic PID controller is used 
