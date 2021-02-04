@@ -47,7 +47,7 @@ If these bounds are crossed, the steering geometry distorts to unrealistic angle
 
 # Running the lane following algorithm
 ```sh
-$ python test.py
+$ python Alane_keep.py
 ```
 # Image processing Pipeline 
   - Read image
